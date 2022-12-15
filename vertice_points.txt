@@ -1,0 +1,31 @@
+hand vertice
+face# 7451 : vert# (4576 4580 4564)
+face color (192 192 192 255)
+face vert 0 : vert# 4576
+position [10.276952 56.765793 22.362362]
+normal [-0.900997 0.398144 -0.172297]
+wedge UV (0.705566 -0.650879) texID 0)
+face vert 1 : vert# 4580
+position [9.878817 55.765068 22.644848]
+normal [-0.804103 0.585786 0.101361]
+wedge UV (0.714844 -0.639160) texID 0)
+face vert 2 : vert# 4564
+position [10.138096 56.521984 23.100183]
+normal [-0.959838 0.279629 0.022763]
+wedge UV (0.704590 -0.638184) texID 0)
+
+mira 
+face# 15958 : vert# (10010 10004 10002)
+face color (192 192 192 255)
+face vert 0 : vert# 10010
+position [-5.069705 44.052734 7.290927]
+normal [-0.802285 -0.272439 0.531146]
+wedge UV (0.963867 -0.626953) texID 0)
+face vert 1 : vert# 10004
+position [-2.376590 44.599499 9.102775]
+normal [-0.154889 0.455209 0.876809]
+wedge UV (0.983398 -0.655273) texID 0)
+face vert 2 : vert# 10002
+position [-4.550585 45.762520 7.357513]
+normal [-0.458120 0.639339 0.617553]
+wedge UV (0.983398 -0.626953) texID 0)
